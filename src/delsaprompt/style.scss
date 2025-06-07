@@ -1,0 +1,38 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+
+.wp-block-create-block-delsaprompt {
+	padding: 1em;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	background-color: #fafafa;
+}
+
+.delsaprompt-response {
+	background: #f9f9f9;
+	padding: 1em;
+	border-left: 4px solid #007cba;
+	border-radius: 4px;
+	font-family: system-ui, serif;
+
+	pre {
+		background: #2d2d2d;
+		color: #f8f8f2;
+		padding: 1em;
+		overflow-x: auto;
+		border-radius: 4px;
+		font-size: 14px;
+		line-height: 1.5;
+	}
+
+	code {
+		font-family: Consolas, Monaco, monospace;
+	}
+}
+
+
