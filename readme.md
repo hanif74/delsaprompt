@@ -2,6 +2,9 @@
 
 delsaprompt is a custom Gutenberg block that allows WordPress users to generate AI-powered content using OpenAI directly from the WordPress editor.
 
+🎥 **Watch Demo:**  
+[![Watch the demo video](https://img.youtube.com/vi/8SE6YLctC-U/0.jpg)](https://www.youtube.com/watch?v=8SE6YLctC-U)
+
 ---
 
 ## ✨ Features
